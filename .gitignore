@@ -1,0 +1,5 @@
+**/**/target/
+
+# Ignore build artifacts
+**/**/*.rs.bk
+**/**/*.rlib
